@@ -25,11 +25,25 @@ Bringing Planet Dob's strange, colorful world to English-speaking players.
 
 ## Development
 
-**Status: In development.**
+Planet Dob’s text is spread across dialogue files, menus, background images, maps, and minigame graphics. Each needs a different approach, from fitting English into existing dialogue boxes to rebuilding lettering that was originally drawn directly into an image.
 
-This repository is the public home for the project. Updates, technical notes, and future patch releases will be shared here as work progresses.
+**The current development build includes:**
 
-Patch downloads, when available, will appear under [Releases](https://github.com/lifeisfullofbotox/planetdob-en/releases).
+- English dialogue and fixed text prompts.
+- Translated title, pause, and options menus.
+- 39 static story and instruction cards.
+- 18 newspaper pages.
+- 64 minigame sprite replacements, including controls and display text.
+- 57 destination labels across eight town maps.
+
+**Remaining work:**
+
+- Two stylized minigame messages remain Japanese while their wording is reviewed.
+- Small environmental labels and other graphics need attention.
+- Slowdown during dialogue letter reveal is being investigated. Inspection of the game’s code points to additional work when looking up English letters.
+- Videos are, for the time being, outside the current translation's scope.
+
+PDevelopment updates, comparison screenshots, and technical notes will be shared here as work progresses. Patch downloads, when available, will appear under the [Releases](https://github.com/lifeisfullofbotox/planetdob-en/releases).
 
 ## Follow and support
 
