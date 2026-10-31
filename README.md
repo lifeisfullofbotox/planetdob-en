@@ -10,6 +10,19 @@ An English fan translation of **Planet Dob**, the Japanese-exclusive PlayStation
 
 Bringing Planet Dob's strange, colorful world to English-speaking players.
 
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center"><img src="screenshot-title.png" alt="Planet Dob title screen"><br><sub>Title screen</sub></td>
+    <td align="center"><img src="screenshot-dialogue.png" alt="English dialogue in Planet Dob"><br><sub>Dialogue</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshot-instructions.png" alt="English minigame instructions in Planet Dob"><br><sub>Instructions</sub></td>
+    <td align="center"><img src="screenshot-map.png" alt="Planet Dob map with English location labels"><br><sub>Map</sub></td>
+  </tr>
+</table>
+
 ## Development
 
 **Status: In development.**
