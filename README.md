@@ -31,10 +31,10 @@ Planet Dob’s text is spread across dialogue files, menus, background images, m
 
 - English dialogue and fixed text prompts.
 - Translated title, pause, and options menus.
-- 39 static story and instruction cards.
-- 18 newspaper pages.
-- 64 minigame sprite replacements, including controls and display text.
-- 57 destination labels across eight town maps.
+- 39 translated static story and instruction cards.
+- 18 translated newspaper pages.
+- 64 minigame translated sprite replacements, including controls and display text.
+- 57 destination labels that have been translated across eight Pieces (maps).
 
 **Remaining work:**
 
