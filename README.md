@@ -43,11 +43,13 @@ Planet Dob’s text is spread across dialogue files, menus, background images, m
 - Slowdown during dialogue letter reveal is being investigated. Inspection of the game’s code points to additional work when looking up English letters.
 - Videos are, for the time being, outside the current translation's scope.
 
-PDevelopment updates, comparison screenshots, and technical notes will be shared here as work progresses. Patch downloads, when available, will appear under the [Releases](https://github.com/lifeisfullofbotox/planetdob-en/releases).
+Patch downloads, when available, will appear under the [Releases](https://github.com/lifeisfullofbotox/planetdob-en/releases).
 
 ## Follow and support
 
-Follow development on [YouTube](https://www.youtube.com/@lifeisfullofbotox).
+Development updates, comparison screenshots, and technical notes will be shared here as work progresses. 
+
+Small previews periodically available on [YouTube](https://www.youtube.com/@lifeisfullofbotox).
 
 If you'd like to give the project a boost, you can [support the work on Ko-fi](https://ko-fi.com/lifeisfullofbotox).
 
