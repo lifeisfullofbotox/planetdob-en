@@ -35,5 +35,5 @@ Patch downloads, when available, will appear under [Releases](https://github.com
 
 Follow development on [YouTube](https://www.youtube.com/@lifeisfullofbotox).
 
-If you'd like to give the project a boost, you can [support the work on Ko-fi](https://ko-fi.com/lifeisfullofbotox). Thank you for helping me keep it moving.
+If you'd like to give the project a boost, you can [support the work on Ko-fi](https://ko-fi.com/lifeisfullofbotox).
 
