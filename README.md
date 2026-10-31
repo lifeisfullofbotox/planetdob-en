@@ -27,8 +27,6 @@ Bringing Planet Dob's strange, colorful world to English-speaking players.
 
 **Status: In development.**
 
-**Tentative release date: January 1, 2027.**
-
 This repository is the public home for the project. Updates, technical notes, and future patch releases will be shared here as work progresses.
 
 Patch downloads, when available, will appear under [Releases](https://github.com/lifeisfullofbotox/planetdob-en/releases).
